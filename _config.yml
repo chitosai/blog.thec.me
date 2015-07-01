@@ -1,0 +1,7 @@
+url: http://blog.thec.me/
+name: 千歳屋
+description: 生存ー戦略！！
+author: TheC
+permalink: /w/:title
+feed: /feed
+comments: true

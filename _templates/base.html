@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.name }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/static/kusa.css">
+  </head>
+  <body>
+    <div class="body">
+      {% block content %}
+        {{ page.content }}
+      {% endblock %}
+    </div> 
+    <div class="footer">
+      <div class="copyright">
+        <p>&copy; {{ site.name }} | <a href="{{ site.feed }}">RSS</a></p>
+      </div>
+    </div>
+  </body>
+</html>
