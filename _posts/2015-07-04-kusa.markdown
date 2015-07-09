@@ -3,7 +3,7 @@ author: TheC
 comments: true
 date: 2015-07-04 12:41:00
 layout: post
-title: 使用新博客 Kusa
+title: 新博客 Kusa
 categories:
 - 杂物屋
 ---
