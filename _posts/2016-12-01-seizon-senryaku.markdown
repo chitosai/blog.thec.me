@@ -1,9 +1,9 @@
 ---
 author: TheC
 comments: true
-date: 2016-12-01 15:31:00+00:00
+date: 2016-12-07 11:29:00+00:00
 layout: post
-title: 生存戦略 20161201
+title: 生存戦略 20161207
 categories:
 - 吐槽
 ---
